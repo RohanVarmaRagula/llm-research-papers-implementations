@@ -1,0 +1,13 @@
+{
+    
+    "seq_len" : 64,
+    "n_data" : 100000,
+    "n_embd" : 512,
+    "vocab_size" : 250027, 
+    "batch_size" : 10,
+    "n_heads" : 8,
+    "dropout" : 0.1,
+    "expansion_factor" : 4,
+    "learning_rate" : 1e-4,
+    "epochs" : 100
+}
