@@ -5,7 +5,7 @@ This repository contains my personal implementations and summaries of some of th
 
 | #  | Paper Title                                                                                  | Authors       | Year | Code Status   | Summary Status |
 |----|----------------------------------------------------------------------------------------------|---------------|------|---------------|----------------|
-| 1  | Attention Is All You Need                                                                    | Vaswani et al. | 2017 | 🚧 In Progress| 📝 To-do     |
+| 1  | Attention Is All You Need                                                                    | Vaswani et al. | 2017 | ✨ Done| 🚧 In Progress     |
 | 2  | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding             | Devlin et al.  | 2018 | ⏳ To-do      | 📝 To-do     |
 | 3  | Improving Language Understanding by Generative Pre-Training (GPT)                            | Radford et al. | 2018 | ⏳ To-do      | 📝 To-do     |
 | 4  | Language Models are Unsupervised Multitask Learners (GPT-2)                                  | Radford et al. | 2019 | ⏳ To-do      | 📝 To-do     |
